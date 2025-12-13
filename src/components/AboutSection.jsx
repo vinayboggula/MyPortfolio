@@ -8,7 +8,7 @@ const AboutSection = () => {
                 <h2 className="text-3xl md:text-4xl font-bold mb-12 text-center">
                     About <span className="text-primary">Me</span>
                 </h2>
-                <div className="grid grid-cols md:grid-cols-2 gap-12 items-center">
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
                     <div className="space-y-6 ">
                         <h3 className="text-2xl font-bold">Web Developer & Creative Builder</h3>
                         <p className="text-muted-foreground">Hi, I’m Vinay — a budding Full Stack Developer who loves building things that work smoothly and look great. I’ve been learning and creating projects using MERN and Next.js, focusing on writing clean code and understanding how real applications come together from frontend to backend.</p>
@@ -16,8 +16,15 @@ const AboutSection = () => {
 
                         <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
                             <a href="#contact" className="cosmic-button">Get In Touch</a>
-                            <a href="" className="px-6 py-2 rounded-full border border-primary text-primary
-                            font-bold hover:bg-primary/10 transition-colors duration-300">Download Resume</a>
+                            <a
+                                href="https://drive.google.com/file/d/1TLuteG1JcgIhtNKXT0pdjGSb4P7eTXaD/view?usp=drive_link"
+                                target="_blank"
+                                className="px-6 py-2 rounded-full border border-primary text-primary
+  font-bold hover:bg-primary/10 transition-colors duration-300"
+                            >
+                                View Resume
+                            </a>
+
                         </div>
                     </div>
                     <div className="grid grid-cols-1 gap-6">

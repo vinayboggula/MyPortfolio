@@ -74,16 +74,15 @@ const ContactSection = () => {
                         <div className="pt-8">
                             <h4>Connect With Me</h4>
                             <div className="flex space-x-4 justify-center">
-                                <a href="" target="_blank">
+                                <a href="https://www.linkedin.com/in/boggula-vinay555" target="_blank">
                                     <Linkedin />
                                 </a>
-                                <a href="" target="_blank">
+                                <a href="https://www.instagram.com/vinayxvie" target="_blank">
                                     <Instagram />
                                 </a>
                                 <a
-                                    href="https://leetcode.com/your-username"
+                                    href="https://leetcode.com/u/boggula_vinay7"
                                     target="_blank"
-                                    rel="noopener noreferrer"
                                     aria-label="LeetCode"
                                 >
                                     <Code />
