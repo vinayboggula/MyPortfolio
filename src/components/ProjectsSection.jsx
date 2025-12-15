@@ -16,8 +16,8 @@ const projects = [
     description: "An AI-powered application that reviews source code, detects issues, and suggests improvements to enhance code quality.",
     image: "/projects/project2.png",
     tags: ["React.js", "Express.js", "Node.js", "TailwindCSS"],
-    demoUrl: "#",
-    githubUrl: "#"
+    demoUrl: "https://busy-in-bugs.vercel.app",
+    githubUrl: "https://github.com/vinayboggula/BusyInBugs"
   },
   {
     id: 3,
@@ -25,8 +25,8 @@ const projects = [
     description: "A secure password management app with encryption and authentication for safely storing and managing credentials.",
     image: "/projects/project3.png",
     tags: ["Next.js", "React.js", "Express.js", "Node.js", "MongoDB", "TailwindCSS"],
-    demoUrl: "#",
-    githubUrl: "#"
+    demoUrl: "https://pass-op-umber.vercel.app/",
+    githubUrl: "https://github.com/vinayboggula/passOp"
   }
   // {
   //   id: 4,

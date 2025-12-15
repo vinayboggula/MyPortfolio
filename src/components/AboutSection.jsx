@@ -15,7 +15,7 @@ const AboutSection = () => {
                         <p className="text-muted-foreground">Beyond web development, I enjoy working with Python for automation and data-related tasks. This interest has also pulled me toward AI and machine learning, and I’ve started exploring how modern apps can integrate smart features using APIs and cloud platforms.As a fresher, I’m eager to gain industry experience, collaborate with teams, and constantly improve my craft. I believe every project—big or small—is a chance to become a better developer.</p>
 
                         <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
-                            <a href="#contact" className="cosmic-button">Get In Touch</a>
+                            <a href="https://drive.google.com/drive/folders/1FJiIk1n4NkeG6y2cP4VYcYO-1FaxV8D8?usp=drive_link" target="_blank" className="cosmic-button">Certificates</a>
                             <a
                                 href="https://drive.google.com/file/d/1TLuteG1JcgIhtNKXT0pdjGSb4P7eTXaD/view?usp=drive_link"
                                 target="_blank"
